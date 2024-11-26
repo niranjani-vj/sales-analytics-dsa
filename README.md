@@ -1,4 +1,4 @@
-#Output:
+<h1>Output</h1>
 
 ```
 Total Sales: 4583270
